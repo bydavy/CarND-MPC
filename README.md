@@ -2,7 +2,8 @@
 Self-Driving Car Engineer Nanodegree Program
 
 ---
-
+[Demo running on simulator](https://youtu.be/Lw-IZHx-uLI)
+--
 ## Dependencies
 
 * cmake >= 3.5

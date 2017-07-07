@@ -1,9 +1,8 @@
 # CarND-Controls-MPC
 Self-Driving Car Engineer Nanodegree Program
 
----
-[Demo running on simulator](https://youtu.be/Lw-IZHx-uLI)
---
+[![Demo running on simulator](https://img.youtube.com/vi/Lw-IZHx-uLI/0.jpg)](https://youtu.be/Lw-IZHx-uLI "Demo")
+
 ## Dependencies
 
 * cmake >= 3.5
